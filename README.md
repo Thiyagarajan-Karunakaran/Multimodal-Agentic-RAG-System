@@ -25,7 +25,7 @@ An AI-powered document question-answering application that utilizes a Retrieval-
 *   **Agentic Search:** Improves accuracy by reformulating user queries to search the vector space from multiple angles.
 *   **Efficient Processing:** Smart document chunking with overlap preservation and duplicate context elimination.
 *   **High Performance:** Cached embedding models and vector stores for rapid retrieval.
-*   **Interactive UI:** User-friendly Streamlit interface featuring full source transparency for every generated answer.
+*   **Interactive UI:** User friendly Streamlit interface featuring full source transparency for every generated answer.
 
 ## Demo
 
